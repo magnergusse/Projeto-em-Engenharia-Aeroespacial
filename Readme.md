@@ -40,20 +40,20 @@
   <p align="center">
 
    <a href="https://youtube.com/shorts/ozo2lfBxjCk?feature=share" target="_blank">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG" width="200"> 
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG" width="100"> 
      <br>
   <b>Reconfiguration Mechanism</b>
   </a>
   
   
   <a href="https://youtube.com/shorts/JcyohlVHpi4?feature=share" target="_blank">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/tumb.png" width="200">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/tumb.png" width="100">
     <br>
   <b>Thrust Stand 1</b>
   </a>
   
   <a href="https://youtube.com/shorts/KsTUEmDCxvE?feature=share" target="_blank">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="200">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="100">
   <br>
   <b>Thrust Stand 2</b>
   </a>
