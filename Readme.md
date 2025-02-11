@@ -13,18 +13,16 @@
     <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture2.gif" width="350">
     <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture3.gif" width="225">
       <br>
-   <a>
+<!---   <a>
   Concept 1   |      
   </a>
-  
   <a>
    Concept 2    |      
-  </a>
-  
+  </a> 
   <a>
   Concept 3
   </a>
-  
+  --->
   <br>
   
   <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="200">
