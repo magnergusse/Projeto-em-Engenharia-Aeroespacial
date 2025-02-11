@@ -50,6 +50,7 @@
   <a href="https://youtube.com/shorts/KsTUEmDCxvE?feature=share" target="_blank">
     <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="150">
   </a>
+  <br>
    <a>
     Reconfiguration Mechanism|      
   </a>
