@@ -54,10 +54,10 @@
     <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="300">
     Thrust Stand 2
   </a>
-     <a 
-     Reconfiguration Mechanism
-  </a>
   
+   <a
+    Reconfiguration Mechanism
+  </a>
   
   <a
     Thrust Stand 1
