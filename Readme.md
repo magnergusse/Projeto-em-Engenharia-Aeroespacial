@@ -37,9 +37,9 @@
 
  
   <br>
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture1.gif" width="200">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture2.gif" width="200">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture3.gif" width="200">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture1.gif" width="225">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture2.gif" width="350">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture3.gif" width="225">
 </p>
 
 <h2>Videos</h2>
