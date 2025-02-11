@@ -48,7 +48,7 @@
   </a>
   
   <a href="https://youtube.com/shorts/KsTUEmDCxvE?feature=share" target="_blank">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="200">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="500">
   </a>
   <br>
    <a>
