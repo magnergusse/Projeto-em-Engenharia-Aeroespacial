@@ -52,15 +52,15 @@
   </a>
   <br>
    <a>
-    Reconfiguration Mechanism|      
+    Reconfiguration Mechanism    |      
   </a>
   
   <a>
-    Thrust Stand 1|      
+      Thrust Stand 1    |      
   </a>
   
   <a>
-    Thrust Stand 2
+      Thrust Stand 2
   </a>
 </p>
 </p>
