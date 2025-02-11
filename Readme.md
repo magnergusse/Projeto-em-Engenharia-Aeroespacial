@@ -37,4 +37,6 @@
 </p>
 
 <h2>Videos</h2>
-[![Demo Video](https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG)](https://youtube.com/shorts/ozo2lfBxjCk?feature=share)
+<a href="https://youtube.com/shorts/ozo2lfBxjCk?feature=share" target="_blank">
+  <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG" width="300">
+</a>
