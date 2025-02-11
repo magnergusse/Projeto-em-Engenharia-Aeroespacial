@@ -40,17 +40,17 @@
   <p align="center">
 
    <a href="https://youtube.com/shorts/ozo2lfBxjCk?feature=share" target="_blank">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG" width="100"> 
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG" width="150"> 
   </a>
   
   
   <a href="https://youtube.com/shorts/JcyohlVHpi4?feature=share" target="_blank">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/tumb.png" width="100">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/tumb.png" width="150">
 
   </a>
   
   <a href="https://youtube.com/shorts/KsTUEmDCxvE?feature=share" target="_blank">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="100">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="150">
 
   </a>
 
