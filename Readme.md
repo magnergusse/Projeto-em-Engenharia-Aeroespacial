@@ -53,11 +53,11 @@
   </a>
   
    <a>
-    Reconfiguration Mechanism
+    Reconfiguration Mechanism|      
   </a>
   
   <a>
-    Thrust Stand 1
+    Thrust Stand 1|      
   </a>
   
   <a>
