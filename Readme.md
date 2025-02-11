@@ -7,6 +7,24 @@
 
 <h2>Gallery</h2>
 <p align="center">
+
+  <br>
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture1.gif" width="225">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture2.gif" width="350">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture3.gif" width="225">
+      <br>
+   <a>
+  Concept 1   |      
+  </a>
+  
+  <a>
+   Concept 2    |      
+  </a>
+  
+  <a>
+  Concept 3
+  </a>
+  
   <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="200">
     <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2115.JPEG" width="200">
     <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2116.JPEG" width="200">
@@ -35,11 +53,6 @@
 <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2704.JPEG" width="200">
 <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2705.JPEG" width="200">
 
- 
-  <br>
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture1.gif" width="225">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture2.gif" width="350">
-    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/Picture3.gif" width="225">
 </p>
 
 <h2>Videos</h2>
@@ -68,5 +81,4 @@
   <a>
       Thrust Stand 2
   </a>
-</p>
 </p>
