@@ -37,6 +37,18 @@
 </p>
 
 <h2>Videos</h2>
-<a href="https://youtube.com/shorts/ozo2lfBxjCk?feature=share" target="_blank">
-  <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG" width="300">
-</a>
+  <p align="center">
+
+   <a href="https://youtube.com/shorts/ozo2lfBxjCk?feature=share" target="_blank">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2655.JPEG" width="300">
+  </a>
+  
+  
+  <a href="https://youtube.com/shorts/JcyohlVHpi4?feature=share" target="_blank">
+    <img src="https://img.youtube.com/vi/<https://youtube.com/shorts/JcyohlVHpi4?feature=share>/1.jpg" width="300">
+  </a>
+  
+  <a href="https://youtube.com/shorts/KsTUEmDCxvE?feature=share" target="_blank">
+    <img src="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial/blob/main/Gallery/IMG_2114.JPEG" width="300">
+  </a>
+</p>
